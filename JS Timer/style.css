@@ -1,0 +1,27 @@
+input{
+    width: 50px;
+    height: 20px;
+    text-align: center;
+}
+
+div{
+    height: 40px;
+    width: 50%;
+    /* border:2px solid red; */
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    background-color: rgb(58, 71, 255);
+    color: white;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+
+button:hover {
+    background-color:whitesmoke; 
+    color: #000000; 
+}
